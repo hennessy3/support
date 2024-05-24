@@ -1,0 +1,12 @@
+{
+  "code": "113",
+  "message": "토큰값이 유효하지 않습니다.",
+  "data": {
+    "contents": [
+      {
+        "school_name": "학교 이름",
+        "school_uri": "학교 ID"
+      }
+    ]
+  }
+}
